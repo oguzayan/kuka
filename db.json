@@ -1,8 +1,15 @@
 {
- 
-  "drivers": [
-    { "id": 1, "name": "Lewis Hamilton","point":338},
-    { "id": 2, "name": "Valtteri Bottas","point":274},
+ "drivers": [
+    { 
+     "id": 1, 
+     "name": "Lewis Hamilton",
+     "point":338
+    },
+    { 
+     "id": 2, 
+     "name": "Valtteri Bottas",
+     "point":274
+    },
     { "id": 3, "name": "Charles Leclerc","point":221},
     { "id": 4, "name": "Max Verstappen","point":212},
     { "id": 5, "name": "Sebastian Vettel","point":212},
