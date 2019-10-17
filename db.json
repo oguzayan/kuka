@@ -11,4 +11,73 @@
     { "id": 9, "name": "Daniel Ricciardo","point":42},
     { "id": 10, "name": "Nico Hulkenberg","point":35}
   ]
+  "driverDetail":[
+{ 
+  "id": 1, 
+  "age":34,
+  "image":"https://cdn-7.motorsport.com/images/mgl/2jXO8LN6/s9/lewis-hamilton-mercedes-amg-f1-1.jpg"},
+  "team":"Mercedes"
+},
+{ 
+  "id": 2, 
+  "age":30,
+  "image":"https://cdn-4.motorsport.com/images/mgl/2549DxD0/s9/valtteri-bottas-mercedes-amg-f-1.jpg"},
+  "team":"Mercedes"
+},
+{ 
+  "id": 2, 
+  "age":30,
+  "image":"https://cdn-4.motorsport.com/images/mgl/2549DxD0/s9/valtteri-bottas-mercedes-amg-f-1.jpg"},
+  "team":"Mercedes"
+},
+{ 
+  "id": 3, 
+  "age":22,
+  "image":"https://cdn-9.motorsport.com/images/mgl/2QzXOJOY/s9/charles-leclerc-ferrari-1.jpg"},
+  "team":"Ferrari"
+},
+{ 
+  "id": 4, 
+  "age":22,
+  "image":"https://cdn-0.motorsport.com/images/mgl/YP3V1J82/s9/max-verstappen-red-bull-racing-1.jpg"},
+  "team":"Red Bull Racing"
+},
+{ 
+  "id": 5,
+  "age":32,
+  "image":"https://cdn-5.motorsport.com/images/mgl/6l9pEqN0/s9/sebastian-vettel-ferrari-1.jpg"},
+  "team":"Ferrari"
+},
+{ 
+  "id": 6, 
+  "age":25,
+  "image":"https://cdn-6.motorsport.com/images/mgl/YN1jVLe2/s9/carlos-sainz-jr-mclaren-1.jpg"},
+  "team":"McLaren"
+},
+{ 
+  "id": 7, 
+  "age":23,
+  "image":"https://cdn-3.motorsport.com/images/mgl/YXR777Q0/s9/pierre-gasly-toro-rosso-1.jpg"},
+  "team":"Toro Rosso"
+},
+{ 
+  "id": 8, 
+  "age":23,
+  "image":"https://cdn-9.motorsport.com/images/mgl/6O1VVVP2/s9/alex-albon-red-bull-racing-1.jpg"},
+  "team":"Red Bull Racing"
+},
+{ 
+  "id": 9, 
+  "age":30,
+  "image":"https://cdn-8.motorsport.com/images/mgl/0oOMgGo0/s9/daniel-ricciardo-renault-sport-1.jpg"},
+  "team":"Renault F1 Team"
+},
+{ 
+  "id": 10, 
+  "age":32,
+  "image":"https://cdn-9.motorsport.com/images/mgl/YKEyRQk0/s9/nico-hulkenberg-renault-f1-tea-1.jpg"},
+  "team":"Renault F1 Team"
+},
+
+  ]
 }
