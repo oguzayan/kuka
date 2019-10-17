@@ -10,7 +10,7 @@
     { "id": 8, "name": "Alexander Albon","point":64},
     { "id": 9, "name": "Daniel Ricciardo","point":42},
     { "id": 10, "name": "Nico Hulkenberg","point":35}
-  ]
+  ],
   "driverDetail":[
 { 
   "id": 1, 
@@ -77,7 +77,7 @@
   "age":32,
   "image":"https://cdn-9.motorsport.com/images/mgl/YKEyRQk0/s9/nico-hulkenberg-renault-f1-tea-1.jpg"},
   "team":"Renault F1 Team"
-},
+}
 
   ]
 }
