@@ -1,6 +1,6 @@
 {
  
-  {"drivers": [
+  "drivers": [
     { "id": 1, "name": "Lewis Hamilton","point":338},
     { "id": 2, "name": "Valtteri Bottas","point":274},
     { "id": 3, "name": "Charles Leclerc","point":221},
@@ -11,7 +11,7 @@
     { "id": 8, "name": "Alexander Albon","point":64},
     { "id": 9, "name": "Daniel Ricciardo","point":42},
     { "id": 10, "name": "Nico Hulkenberg","point":35}
-  ]},
+  ],
   "driverDetail":[
 { 
   "id": 1, 
