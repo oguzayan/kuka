@@ -1,11 +1,14 @@
 {
   "player": [
-    { "id": 1, "name": "Atiba","number":13,"weight":75 },
-    { "id": 2, "name": "Vida","number":24,"weight":80},
-    { "id": 3, "name": "Necip","number":20,"weight":25 }
+    { "id": 1, "name": "Lewis Hamilton","point":338},
+    { "id": 2, "name": "Valtteri Bottas","point":274},
+    { "id": 3, "name": "Charles Leclerc","point":221},
+    { "id": 4, "name": "Max Verstappen","point":212},
+    { "id": 5, "name": "Sebastian Vettel","point":212},
+    { "id": 6, "name": "Carlos Sainz Jr.","point":76},
+    { "id": 7, "name": "Pierre Gasly","point":73},
+    { "id": 8, "name": "Alexander Albon","point":64},
+    { "id": 9, "name": "Daniel Ricciardo","point":42},
+    { "id": 10, "name": "Nico Hulkenberg","point":35}
   ],
-  "coach": {
-    "name": "Abdullah",
-    "surname":"Avcı"
-  }
 }
